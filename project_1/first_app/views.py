@@ -8,4 +8,4 @@ def about(request):
     return HttpResponse("This is About Page")   
 
 def first_app(request):
-    return HttpResponse("This is FirstApp")
+    return HttpResponse("This is FirstApp") 
